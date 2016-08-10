@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  customerexampleapi:
+    image: username/customerexampleapi
+    ports:
+      - "80:80"
